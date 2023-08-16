@@ -8,7 +8,7 @@
 
 Desenvolvedor Full Stack & UX/UI Designer 🤔:
 
-Crio e desenvolvo soluções criativas, para resolver problemas.
+Crio e desenvolvo soluções criativas, para diferentes problemas.
 
 ## Minhas tecnologias:
 
