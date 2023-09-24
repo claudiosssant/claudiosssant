@@ -22,6 +22,4 @@ Crio e desenvolvo soluções criativas, para diferentes problemas.
 
 ### Versionamento: <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=claudiosssant&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/claudiosssant)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiosssant&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/claudiosssant)
