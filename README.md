@@ -6,7 +6,7 @@
 
 ## Sobre mim:
 
-Desenvolvedor Full Stack & UX/UI Designer 🤔:
+Fullstack Developer:
 
 Crio e desenvolvo soluções criativas, para diferentes problemas.
 
